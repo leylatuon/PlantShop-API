@@ -1,5 +1,5 @@
 # PlantShop-API
-Final Project for API class
+Final Project for API class, the only thing that was changed from my original proposal was the additional constraints on my columns that include NOT NULL.
 
 ## Endpoints
 | API | Description | Request Body | Response Body |
