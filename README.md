@@ -1,7 +1,7 @@
 # PlantShop-API
 Final Project for API class, the only thing that was changed from my original proposal was the additional constraints on my columns that include NOT NULL. I also added DELETE ON CASCADE on the OrderId foreign key of the OrderItems table.
 
-## Endpoints
+## Endpoints + HTTP Requests
 | API | Description | Request Body | Response Body |
 | --- | --- | --- | --- |
 | POST https://localhost:7081/api/order | Add an order to orders | Order object | Order object |
