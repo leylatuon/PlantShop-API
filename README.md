@@ -1,5 +1,5 @@
 # PlantShop-API
-Final Project for API class, the only thing that was changed from my original proposal was the additional constraints on my columns that include NOT NULL.
+Final Project for API class, the only thing that was changed from my original proposal was the additional constraints on my columns that include NOT NULL. I also added DELETE ON CASCADE on the OrderId foreign key of the OrderItems table.
 
 ## Endpoints
 | API | Description | Request Body | Response Body |
